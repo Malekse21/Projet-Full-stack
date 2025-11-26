@@ -1,0 +1,8 @@
+{
+  "name": "MemoryFolder",
+  "description": "A full-stack style memory management application with AI-powered enhancements, folder organization, and secure authentication simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
